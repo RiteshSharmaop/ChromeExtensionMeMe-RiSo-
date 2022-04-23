@@ -1,0 +1,15 @@
+{
+    "name": "RiS",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "browser_action":{
+        "default_popup": "popup.html",
+        "default_icon": "leaf 16-16.png"
+    },
+    "icons" : {
+        "128": "leaf 128-128.png",
+        "48": "leaf 48-48.png",
+        "16": "leaf 16-16.png"
+    },
+    "permissions": ["activeTAb"]
+}

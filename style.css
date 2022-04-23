@@ -1,0 +1,18 @@
+body{
+    width: 600px;
+    height: 300px;
+    background-color: lightpink;
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    display: inner-flex;
+    margin: auto 10px;
+    font-size: 22px;
+    color: black;
+    border-radius: 6px;
+    border: 1px solid crimson;
+    background-color: yellow;
+    padding: 10px;
+}
